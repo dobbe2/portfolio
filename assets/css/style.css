@@ -1,11 +1,28 @@
+/* My Header, Trying to get them to all float in the correct spot*/
 header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #ffffff;
+    padding: 20px;
+    margin: 0;
 }
 
-.top{
-    text-align: right;
+a{
+    text-decoration: none;
 }
+.top{
+    text-decoration: none;
+    text-align: right;
+    width: 920px;
+    margin: auto;
+ }
+   
+.name {
+    background-color: #4aaaa5;
+    text-align: left;
+    color: white;
+    padding: 20px;
+}
+
 
 img {
     margin: 10px;
