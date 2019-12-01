@@ -4,6 +4,9 @@ body{
     color: #777777;
 }
 
+p {
+    margin: 15px;
+}
 header{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #ffffff;
@@ -87,6 +90,12 @@ textarea {
     border-color: #777777;
 }
 
+.imageGrid img {
+    width: 33%;
+    height: 33%;
+    float: left;
+    display: inline-block;
+}
 footer {
     position: fixed;
     left: 0;
