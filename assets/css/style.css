@@ -11,6 +11,9 @@ a{
     color: #666666;
 }
 
+a{
+    text-decoration: none;
+}
 .top{
     text-decoration: none;
     text-align: right;
