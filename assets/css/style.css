@@ -43,6 +43,7 @@ hr{
     color: grey;
     margin: 30px;
 }
+
 img {
     margin: 10px;
 }
@@ -54,6 +55,7 @@ img {
  h2 {
      margin-bottom: 30px;
      margin-left: 30px;
+     margin-top: 30px;
      color: #4aaaa5;
  }
 
@@ -79,6 +81,7 @@ input {
     border-color: #777777;
     border-width: 1px;
 }
+
 textarea {
     width: 95%;
     border-color: #777777;
