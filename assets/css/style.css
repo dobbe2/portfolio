@@ -1,12 +1,34 @@
+/* My Header, Trying to get them to all float in the correct spot*/
 header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #ffffff;
+    margin: 0;
+}
+
+a{
+    text-decoration:none;
+    padding: 15px;
+    color: #666666;
 }
 
 .top{
+    text-decoration: none;
     text-align: right;
+    width: 920px;
+    margin: auto;
+ }
+.name {
+    text-align: left;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 20px;
+    width: 920px;
 }
 
+hr{
+    color: grey;
+    margin: 30px;
+}
 img {
     margin: 10px;
 }
@@ -28,6 +50,7 @@ img {
     background-color: #ffffff;
     margin: auto;
     line-height: 2;
+    margin-bottom: 75px;
 }
 
 
@@ -36,7 +59,7 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: darkslategray;
+    background-color: #666666;
     text-align: center;
     border-top: 8px solid #4aaaa5;
     color: white;
