@@ -10,7 +10,6 @@ header{
     background-color: #ffffff;
     height: 70px;
     width: 100%;
-    
 }
 
  h1 {
@@ -18,9 +17,10 @@ header{
  }
 
  h2 {
-     margin-left: 30px;
+     padding-top: 15px;
      margin-top: 30px;
      color: #4aaaa5;
+     padding-left: 20px;
  }
 
 p {
@@ -39,12 +39,9 @@ a{
 
 /*
 trying to get headers to cooperate!
-.headHr {
-    color: grey;
-    margin-top: 0px;
-}
 */
-.aboutMe .bodyHr{
+
+.aboutMe {
     color: grey;
     margin-left: 30px;
     margin-right: 30px;
@@ -57,7 +54,7 @@ hr {
     margin: 0px;
 }
 img {
-    margin: 10px;
+    margin: 20px;
 }
 
 .top{
@@ -69,17 +66,13 @@ img {
     padding-top: 22px;
  }
 
- .name {
-     text-align: left;
-     margin: auto;
- }
-
 .name {
     position: absolute;
     background-color: #4aaaa5;
     color: white;
     padding: 25.8px;
     margin-left: 30px;
+    text-align: left;
 }
 
 .button {
@@ -100,6 +93,7 @@ img {
     margin: auto;
     line-height: 1.5;
     margin-bottom: 75px;
+    padding-bottom: 15px;
 }
 
 .form {
@@ -129,15 +123,19 @@ textarea {
     position: relative;
 }
 
-.textcenter {
+.imageLabel {
     position: absolute;
     left: 0;
     top: 50%;
     width: 33%;
-    text-align: left;
+    text-align: center;
     font-size: 20px;
     background-color: #4aaaa5;
     color: white;
+    margin-top: 230px;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 footer {
